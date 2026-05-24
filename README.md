@@ -94,16 +94,16 @@ Após iniciar, escaneie o QR code com o **Expo Go** no celular ou pressione `a` 
 ### 🖼️ Telas do app
 
 #### Home
-<img width="300" height="600" alt="Home" src="https://github.com/user-attachments/assets/e1eed908-3e95-4e78-9f6e-590560f2df9a" />
+<img width="300" height="600" alt="WhatsApp Image 2026-05-24 at 16 03 46" src="https://github.com/user-attachments/assets/010d47eb-45e5-4a5e-aa06-8a0b0a856a48" />
 
 #### Comparador IA
-<img width="300" height="600" alt="Comparador IA" src="https://github.com/user-attachments/assets/7032d8b0-2eb2-4ec5-b79c-b1aa70813c98" />
+<img width="300" height="600" alt="WhatsApp Image 2026-05-24 at 16 33 17" src="https://github.com/user-attachments/assets/5b5d1786-9f51-4a68-8f2d-f55668b8c15e" />
 
 #### Agendamento
-<img width="300" height="600" alt="Agendamento" src="https://github.com/user-attachments/assets/8028a450-0d01-430d-90e5-1caa80ea5dd7" />
+<img width="300" height="600" alt="WhatsApp Image 2026-05-24 at 16 33 31" src="https://github.com/user-attachments/assets/50c6bf97-ab59-4c0e-b8b7-96711bc691ad" />
 
 #### Meu Veículo
-<img width="300" height="600" alt="Meu Veículo" src="https://github.com/user-attachments/assets/2412d1b4-3463-41d7-9e37-f874c0bbcc72" />
+<img width="300" height="600" alt="WhatsApp Image 2026-05-24 at 16 33 52" src="https://github.com/user-attachments/assets/3b00573d-5824-4787-9652-46bdbb0f07ba" />
 
 ---
 
